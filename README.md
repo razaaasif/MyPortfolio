@@ -1,2 +1,2 @@
 #Master Portfolio 
-This ortfolio is made in React.js .
+This Portfolio is made in React.js .
